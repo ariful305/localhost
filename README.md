@@ -32,7 +32,8 @@ Change the default index view in localhost
      Access the application at [http://localhost/](http://localhost/).
 
 ## Demo
-     ![App Screenshot](image.png)
+
+![App Screenshot](./image.png)
 
 
 ## License
