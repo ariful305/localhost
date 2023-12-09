@@ -13,7 +13,7 @@ Change the default index view in localhost
 2. Navigate to the localhost web directory:
 
    ```bash
-   cd htdocs(XAMPP)  or  www(Larahon)
+   cd htdocs(XAMPP)  or  www(Laragon)
    ```
 
 3. Replace the default index file:
@@ -24,7 +24,7 @@ Change the default index view in localhost
 4. For style copy the style file:
 
    ```bash
-   copy style file 
+   copy css file 
    ```
 
 5. Start the apache server:
